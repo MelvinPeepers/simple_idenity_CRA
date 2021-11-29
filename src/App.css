@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  margin-top: 25%;
 }
 
 .App-logo {
@@ -35,4 +36,13 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+
+.btn-open {
+  padding: 1rem 2rem;
+  border: 2px solid black;
+  margin: 0 0.3em 0.3em 0;
+  border-radius: 0.5rem;
+  font-size: 1.6rem;
 }
